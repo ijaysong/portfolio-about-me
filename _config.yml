@@ -1,10 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+#header
+header:
+  title: 포트폴리오
 
-#github
-github:
-  owner_name: Song Eunji
+#profile_info
+profile_info:
+  ko_name: 송은지
+  us_name: Song Eunji
+  description: 자기 소개 글 입력
+  ko_blog: 블로그
+  ko_github: 깃헙
+  ko_email: 이메일
+  us_blog: Blog
+  us_github: GitHub
+  us_email: Email
+
+#footer
+footer:
+  created_when: © 2022
