@@ -1,123 +1,86 @@
 ---
 layout: default
 ---
+# 👩🏻‍💻 About Me
+### Introduction
+* 안녕하세요! 4년차 개발자 송은지 입니다.
+* 궁금한게 있으면 꼭 해보고 싶어하는 호기심이 많은 성격 입니다.
+* 개발자가 되기 전부터 해외 취업에 대해 관심으로, 일본에서 커리어를 시작했습니다.
+* **일본어가 가능한 개발자**라는 특기를 살려 외국계 IT 회사에서 근무하고 있습니다.
+* 커피☕️, 강아지🐶 그리고 (긍정적인 소통)에 관심이 많습니다.
+* clean code와 test에 대한 고민을 생활화 합니다.
+* 꾸준한 자기 발전의 중요성을 알기에 1일 1커밋과 기술 블로그 운영을 하고 있습니다.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+---
 
-[Link to another page](./another-page.html).
+# 🔨 Skills
+### Backend
+* Java8
+* Golang 1.18
+* Gorm
+* MariaDB, PostgreSQL, Oracle
+* IntelliJ, Visual Studio Code, Eclipse, Spring Boot
 
-There should be whitespace between paragraphs.
+### DevOps
+* AWS EC2, S3, RDS, CloudFront
+* Docker
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Frontend
+* Html5, CSS3(SCSS), JavaScript(ES6)
+* TypeScript, Angular
 
-# Header 1
+### Collaboration
+* Git, Sourcetree
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
+# 💻 Work Experience & Projects
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+  <dt>Grooo Korea</dt>
+  <dd>Seoul, Korea 🇰🇷</dd>
+  <dd>2020.12 ~ 현재</dd> 
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* **화상관리시스템**
+* 여행사와 거래처 사이트에 표시하는 이미지를 관리하는 시스템
+  * access, refresh 토큰 발행 방식을 도입하여 로그인 보안을 향상 시킨 경험
+* **투어관리시스템**
+* 여행사 투어를 관리하는 시스템
 
-```
-The final element.
-```
+
+<dl>
+  <dt>株式会社KICOシステムズ</dt>
+  <dd>Tokyo, Japan 🇯🇵</dd>
+  <dd>2018.04 ~ 2020.08 (2년 4개월)</dd>
+</dl>
+
+* e-commerce
+* 은행 여신 관리 프로그램 성능 관리 데이터 추출 쉘 작성
+
+---
+
+# 🧘🏻‍♀️ Personal Experience & Projects
+
+---
+
+# ✍🏼 Presentation & Article
+
+---
+
+# 🏫 Education
+<dl>
+  <dt>한국무역협회 SCIT 마스터 33기 수료</dt>
+  <dd>2017.03 ~ 2018.01</dd>
+</dl>
+
+* 한국무역협회에서 진행한 일본 취업 IT 개발자 양성 교육 과정
+  * 11개월 교육
+  * 웹 프로그래밍 중심
+  * 페어 프로그래밍, 팀 프로젝트를 통한 협업 경험
+  * Java, Spring, DevOps 외 다수
+
+<dl>
+  <dt>동덕여자대학교</dt>
+  <dd>2011.03 ~ 2016.02</dd>
+  <dd>문헌정보학, 경영학 전공</dd>
+</dl>
