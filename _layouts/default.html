@@ -5,18 +5,18 @@
     <title>{{ site.header.title }}</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="../assets/img/favicon.png">
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="icon" href="/assets/img/favicon.png">
+    <link rel="stylesheet" href="/assets/css/style.css">
   </head>
   <body>
     <div class="wrapper">
       <header>
+        <img src="/assets/img/logo.png" alt="Image">
+        <p></p>
         <h1>
           <a href="https://github.com/ijaysong/">{{ site.profile_info.ko_name }} ({{ site.profile_info.us_name }})</a>
         </h1>
-        <img src="../assets/img/logo.png" alt="Image">
         <p></p>
-        <p>{{ site.profile_info.description | default: site.description }}</p>
         <ul class="downloads">
           <li>
             <a href="https://ijaysong-blog.tistory.com/">
@@ -49,6 +49,6 @@
         </p>
       </footer>
     </div>
-    <script src="../assets/js/scale.fix.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
   </body>
 </html>
