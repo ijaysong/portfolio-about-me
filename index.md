@@ -79,10 +79,11 @@ layout: default
   <dd>흡연 가능한 구역을 지도 상에 표현</dd>
 </dl>
 
+<!-- TODO URL 수정 필요 -->  
 * **Project URL**  
-  <https://temp_url>  
+  <https://www.google.com> 
 * **Github Repository URL**  
-  <https://temp_url>
+  <https://www.google.com>
 
 <dl>
   <dt>🦠 코로나 바이러스 감염현황 알림 프로그램</dt>
@@ -93,7 +94,7 @@ layout: default
 
 <!-- TODO URL 수정 필요 -->  
 * **Project URL**  
-  <https://corocoro-world.XX>
+  <https://www.google.com>
 * **Github Repository URL**  
   <https://github.com/ijaysong/world-corona-info>
 
