@@ -3,7 +3,7 @@ layout: default
 ---
 # 👩🏻‍💻 About Me
 ### Introduction
-* 안녕하세요! 4년차 개발자 송은지 입니다.
+* 안녕하세요! 4년차 개발자 **송은지** 입니다.
 * 궁금한게 있으면 꼭 해보고 싶어하는 호기심이 많은 성격 입니다.
 * 개발자가 되기 전부터 해외 취업에 대해 관심으로, 일본에서 커리어를 시작했습니다.
 * **일본어가 가능한 개발자**라는 특기를 살려 외국계 IT 회사에서 근무하고 있습니다.
@@ -74,16 +74,18 @@ layout: default
 ---
 
 # 🤹🏻‍♀️ Personal Experience & Projects
+<!-- TODO 추후 반영
 <dl>
   <dt>🚬 흡연 구역 안내 프로그램</dt>
   <dd>흡연 가능한 구역을 지도 상에 표현</dd>
 </dl>
 
-<!-- TODO URL 수정 필요 -->  
+
 * **Project URL**  
   <https://www.google.com> 
 * **Github Repository URL**  
   <https://www.google.com>
+-->
 
 <dl>
   <dt>🦠 코로나 바이러스 감염현황 알림 프로그램</dt>
@@ -92,9 +94,6 @@ layout: default
   <dd>Spring Boot, maven, MySQL, Nginx, Amazon Linux</dd>
 </dl>
 
-<!-- TODO URL 수정 필요 -->  
-* **Project URL**  
-  <https://www.google.com>
 * **Github Repository URL**  
   <https://github.com/ijaysong/world-corona-info>
 
@@ -115,14 +114,14 @@ layout: default
 * **Blog URL**: <https://ijaysong-blog.tistory.com/>
 
 <dl>
-  <dt>🙆🏻‍♂️ JWT 인증 방식</dt>
+  <dt>🙆🏻‍ JWT 인증 방식</dt>
   <dd>로그인 인증 방식 개선을 위해 조사 및 공유</dd>
   <dd>Access Token, Refresh Token</dd>
   <dd>XSS, CSRF 공격</dd>
 </dl>
 
 <!-- TODO URL 수정 필요  -->
-* **Blog URL**: <https://ijaysong-blog.tistory.com/>>
+* **Blog URL**: <https://ijaysong-blog.tistory.com/>
 
 ---
 
